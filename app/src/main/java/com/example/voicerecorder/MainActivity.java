@@ -25,9 +25,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
-        File outputFile = new File(directory, "file.3gp");
 
-        audioRecorder = new AudioRecorder(outputFile.getAbsolutePath());
 
 
 
